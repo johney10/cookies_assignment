@@ -1,6 +1,10 @@
+html{
+	border-style: solid;
+}
+
 body{
 	background-color: #FFE;
-	border-style: solid;
+
 }
 
 h3{
